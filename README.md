@@ -1,5 +1,11 @@
 # swift_qwen
 使用swift训练qwen
+
+环境install
+```python
+参考swift官方仓库
+```
+
 环境激活
 ```python
 conda activate /high_perf_store/surround-view/xxd/miniconda3/envs/swift
